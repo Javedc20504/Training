@@ -1,0 +1,5 @@
+#This is a test Repo's File
+Enter-pssession -computername "test"
+hostname
+systeminfo
+exit
